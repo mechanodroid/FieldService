@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" package="FieldService.FieldService" android:versionName="1.2">
+  <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="22" />
+  <application android:label="FieldService" android:name="mono.android.app.Application" android:debuggable="true">
+    <activity android:configChanges="keyboardHidden|orientation" android:icon="@drawable/icon" android:label="Field Service" android:screenOrientation="portrait" android:name="md54aed82c1b70048b2f409875a4eca9af2.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:configChanges="keyboardHidden|orientation" android:icon="@drawable/icon" android:label="Extra View" android:screenOrientation="portrait" android:name="md54aed82c1b70048b2f409875a4eca9af2.ExtraView" />
+    <activity android:configChanges="keyboardHidden|orientation" android:icon="@drawable/icon" android:label="Enter Data" android:screenOrientation="portrait" android:name="md54aed82c1b70048b2f409875a4eca9af2.EnterData" />
+    <activity android:configChanges="keyboardHidden|orientation" android:icon="@drawable/icon" android:label="View" android:screenOrientation="portrait" android:name="md54aed82c1b70048b2f409875a4eca9af2.ViewData" />
+    <activity android:configChanges="keyboardHidden|orientation" android:icon="@drawable/icon" android:label="Items Location" android:screenOrientation="portrait" android:name="md54aed82c1b70048b2f409875a4eca9af2.ItemView" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="FieldService.FieldService.mono.MonoRuntimeProvider.__mono_init__" />
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.FieldService.FieldService" />
+      </intent-filter>
+    </receiver>
+  </application>
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+</manifest>

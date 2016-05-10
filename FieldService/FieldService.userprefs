@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="FieldService\FieldService.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.21" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FieldService\Properties\AndroidManifest.xml">
+    <Files>
+      <File FileName="FieldService\Data.cs" Line="14" Column="3" />
+      <File FileName="FieldService\JsonService.cs" Line="15" Column="21" />
+      <File FileName="FieldService\ViewData.cs" Line="1" Column="1" />
+      <File FileName="FieldService\EnterData.cs" Line="1" Column="1" />
+      <File FileName="FieldService\ItemView.cs" Line="1" Column="1" />
+      <File FileName="FieldService\Resources\Resource.designer.cs" Line="126" Column="2" />
+      <File FileName="FieldService\Properties\AndroidManifest.xml" Line="9" Column="12" />
+      <File FileName="FieldService\Properties\AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="FieldService\Resources\values\Strings.xml" Line="1" Column="1" />
+      <File FileName="FieldService\Assets\AboutAssets.txt" Line="1" Column="1" />
+      <File FileName="FieldService\MainActivity.cs" Line="1" Column="1" />
+      <File FileName="FieldService\Resources\AboutResources.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FieldService MonoForAntroid.PreferredDevice="4.65&quot; 720p (Galaxy Nexus)" AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

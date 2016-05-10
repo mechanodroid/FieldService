@@ -1,0 +1,20 @@
+FieldService.MainActivity, FieldService;md54aed82c1b70048b2f409875a4eca9af2.MainActivity
+FieldService.MainActivity, FieldService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54aed82c1b70048b2f409875a4eca9af2.MainActivity
+FieldService.MainActivity;md54aed82c1b70048b2f409875a4eca9af2.MainActivity
+fieldservice.MainActivity;md54aed82c1b70048b2f409875a4eca9af2.MainActivity
+FieldService.ExtraView, FieldService;md54aed82c1b70048b2f409875a4eca9af2.ExtraView
+FieldService.ExtraView, FieldService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54aed82c1b70048b2f409875a4eca9af2.ExtraView
+FieldService.ExtraView;md54aed82c1b70048b2f409875a4eca9af2.ExtraView
+fieldservice.ExtraView;md54aed82c1b70048b2f409875a4eca9af2.ExtraView
+FieldService.EnterData, FieldService;md54aed82c1b70048b2f409875a4eca9af2.EnterData
+FieldService.EnterData, FieldService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54aed82c1b70048b2f409875a4eca9af2.EnterData
+FieldService.EnterData;md54aed82c1b70048b2f409875a4eca9af2.EnterData
+fieldservice.EnterData;md54aed82c1b70048b2f409875a4eca9af2.EnterData
+FieldService.ViewData, FieldService;md54aed82c1b70048b2f409875a4eca9af2.ViewData
+FieldService.ViewData, FieldService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54aed82c1b70048b2f409875a4eca9af2.ViewData
+FieldService.ViewData;md54aed82c1b70048b2f409875a4eca9af2.ViewData
+fieldservice.ViewData;md54aed82c1b70048b2f409875a4eca9af2.ViewData
+FieldService.ItemView, FieldService;md54aed82c1b70048b2f409875a4eca9af2.ItemView
+FieldService.ItemView, FieldService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54aed82c1b70048b2f409875a4eca9af2.ItemView
+FieldService.ItemView;md54aed82c1b70048b2f409875a4eca9af2.ItemView
+fieldservice.ItemView;md54aed82c1b70048b2f409875a4eca9af2.ItemView

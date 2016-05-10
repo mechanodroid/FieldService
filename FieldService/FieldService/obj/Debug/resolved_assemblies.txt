@@ -1,0 +1,8 @@
+C:\Users\geisl\Downloads\FieldServiceFull (1)\FieldService\FieldService\FieldService\obj\Debug\assemblies\FieldService.dll
+C:\Users\geisl\Downloads\FieldServiceFull (1)\FieldService\FieldService\FieldService\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\geisl\Downloads\FieldServiceFull (1)\FieldService\FieldService\FieldService\obj\Debug\assemblies\mscorlib.dll
+C:\Users\geisl\Downloads\FieldServiceFull (1)\FieldService\FieldService\FieldService\obj\Debug\assemblies\Newtonsoft.Json.dll
+C:\Users\geisl\Downloads\FieldServiceFull (1)\FieldService\FieldService\FieldService\obj\Debug\assemblies\System.Core.dll
+C:\Users\geisl\Downloads\FieldServiceFull (1)\FieldService\FieldService\FieldService\obj\Debug\assemblies\System.dll
+C:\Users\geisl\Downloads\FieldServiceFull (1)\FieldService\FieldService\FieldService\obj\Debug\assemblies\System.Xml.dll
+C:\Users\geisl\Downloads\FieldServiceFull (1)\FieldService\FieldService\FieldService\obj\Debug\assemblies\System.Runtime.Serialization.dll
